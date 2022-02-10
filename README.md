@@ -1,8 +1,8 @@
 # card-hover
 
 
-##Tech
-### HTML5, CSS and Vanilla-Tilt.js
+## Tech:
+#### HTML5, CSS and Vanilla-Tilt.js
 
 
 
